@@ -23,7 +23,7 @@
     if (isYear){
         alert(year +"la mot nam nhuan");
     }else {
-        alert(year +" khong phai la nam nhuan")
+        alert(year +" khong phai la nam nhuan");
     }
 </script>
 </body>
